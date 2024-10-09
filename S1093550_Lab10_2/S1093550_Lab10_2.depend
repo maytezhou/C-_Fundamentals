@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1620301796 source:c:\s1093550_lab10\s1093550_lab10_2\s1093550_lab10_2\account.cpp
+	<iostream>
+	"Account.h"
+	<string>
+
+1620301953 c:\s1093550_lab10\s1093550_lab10_2\s1093550_lab10_2\account.h
+
+1620301841 source:c:\s1093550_lab10\s1093550_lab10_2\s1093550_lab10_2\checkingaccount.cpp
+	<iostream>
+	"Checkingaccount.h"
+	"Account.h"
+
+1620301884 c:\s1093550_lab10\s1093550_lab10_2\s1093550_lab10_2\checkingaccount.h
+	"Savingaccount.h"
+	"Account.h"
+
+1620301946 c:\s1093550_lab10\s1093550_lab10_2\s1093550_lab10_2\savingaccount.h
+	"Checkingaccount.h"
+	"Account.h"
+
+1620301937 source:c:\s1093550_lab10\s1093550_lab10_2\s1093550_lab10_2\savingaccount.cpp
+	<iostream>
+	"Savingaccount.h"
+	"Account.h"
+	<string>
+
+1620301586 source:c:\s1093550_lab10\s1093550_lab10_2\s1093550_lab10_2\main.cpp
+	<iostream>
+	<typeinfo>
+	<string>
+	<vector>
+	"Savingaccount.h"
+	"Checkingaccount.h"
+	"Account.h"
+

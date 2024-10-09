@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1621864445 source:c:\users\mayte\onedrive\documentos\s1093550_lab11_2\s1093550_lab11_2\main.cpp
+	<iostream>
+	<cstdio>
+	<sstream>
+	<string>
+	<algorithm>
+	<cmath>
+

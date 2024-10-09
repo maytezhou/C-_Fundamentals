@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1617168351 source:c:\s1093550_lab5\s1093550_lab5\date.cpp
+	<iostream>
+	"Date.h"
+
+1617168329 c:\s1093550_lab5\s1093550_lab5\date.h
+
+1617169324 source:c:\s1093550_lab5\s1093550_lab5\employee.cpp
+	<iostream>
+	"Employee.h"
+	"Date.h"
+	<string>
+
+1617167519 c:\s1093550_lab5\s1093550_lab5\employee.h
+	<string>
+	"Date.h"
+
+1617169466 source:c:\s1093550_lab5\s1093550_lab5\main.cpp
+	<iostream>
+	"Date.h"
+	"Employee.h"
+	<string>
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1624637047 source:c:\users\mayte\onedrive\escritorio\s1093550_pd\s1093550_pd\main.cpp
+	<iostream>
+	"Array.h"
+	<new>
+	<stdexcept>
+	<string>
+
+1624643451 c:\users\mayte\onedrive\escritorio\s1093550_pd\s1093550_pd\array.h
+	<iostream>
+	<iomanip>
+	<cstdlib>
+

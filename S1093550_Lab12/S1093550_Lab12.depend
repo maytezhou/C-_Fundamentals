@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1621749510 source:c:\s1093550_lab12\s1093550_lab12\main.cpp
+	<iostream>
+	"Array.h"
+
+1621749706 c:\s1093550_lab12\s1093550_lab12\array.h
+	<iostream>
+	<iomanip>
+	<cstdlib>
+

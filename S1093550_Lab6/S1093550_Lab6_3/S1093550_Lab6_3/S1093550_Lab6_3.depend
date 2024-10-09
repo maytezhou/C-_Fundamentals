@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1617813829 source:c:\users\mayte\onedrive\imágenes\s1093550_lab6\s1093550_lab6_3\s1093550_lab6_3\employee.cpp
+	<iostream>
+	<string>
+	"Employee.h"
+
+1617813828 c:\users\mayte\onedrive\imágenes\s1093550_lab6\s1093550_lab6_3\s1093550_lab6_3\employee.h
+	<string>
+
+1617813805 source:c:\users\mayte\onedrive\imágenes\s1093550_lab6\s1093550_lab6_3\s1093550_lab6_3\main.cpp
+	<iostream>
+	"Employee.h"
+	<string>
+

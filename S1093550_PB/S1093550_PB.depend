@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1624549718 source:c:\users\mayte\onedrive\escritorio\s1093550_pb\s1093550_pb\clientdata.cpp
+	<string>
+	"ClientData.h"
+
+1624549700 c:\users\mayte\onedrive\escritorio\s1093550_pb\s1093550_pb\clientdata.h
+	<string>
+
+1624572605 source:c:\users\mayte\onedrive\escritorio\s1093550_pb\s1093550_pb\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cstdlib>
+	"ClientData.h"
+

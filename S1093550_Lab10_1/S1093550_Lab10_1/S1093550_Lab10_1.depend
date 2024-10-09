@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1620381478 source:c:\users\mayte\onedrive\documentos\s1093550_lab10\s1093550_lab10_1\s1093550_lab10_1\account.cpp
+	<iostream>
+	"Account.h"
+	<string>
+
+1620381460 c:\users\mayte\onedrive\documentos\s1093550_lab10\s1093550_lab10_1\s1093550_lab10_1\account.h
+
+1620381494 source:c:\users\mayte\onedrive\documentos\s1093550_lab10\s1093550_lab10_1\s1093550_lab10_1\checkingaccount.cpp
+	<iostream>
+	"Checkingaccount.h"
+	"Account.h"
+
+1620381510 c:\users\mayte\onedrive\documentos\s1093550_lab10\s1093550_lab10_1\s1093550_lab10_1\checkingaccount.h
+	"Savingaccount.h"
+	"Account.h"
+
+1620381530 c:\users\mayte\onedrive\documentos\s1093550_lab10\s1093550_lab10_1\s1093550_lab10_1\savingaccount.h
+	"Checkingaccount.h"
+	"Account.h"
+
+1620381586 source:c:\users\mayte\onedrive\documentos\s1093550_lab10\s1093550_lab10_1\s1093550_lab10_1\main.cpp
+	<iostream>
+	<typeinfo>
+	<string>
+	<vector>
+	"Savingaccount.h"
+	"Checkingaccount.h"
+	"Account.h"
+
+1620381550 source:c:\users\mayte\onedrive\documentos\s1093550_lab10\s1093550_lab10_1\s1093550_lab10_1\savingaccount.cpp
+	<iostream>
+	"Savingaccount.h"
+	"Account.h"
+	<string>
+

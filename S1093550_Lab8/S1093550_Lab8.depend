@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1619050674 source:c:\s1093550_lab8\s1093550_lab8\main.cpp
+	<iostream>
+	"Hugeint.h"
+	<string>
+
+1619055358 source:c:\s1093550_lab8\s1093550_lab8\hugeint.cpp
+	<cctype>
+	"Hugeint.h"
+
+1619054343 c:\s1093550_lab8\s1093550_lab8\hugeint.h
+	<iostream>
+	<string>
+

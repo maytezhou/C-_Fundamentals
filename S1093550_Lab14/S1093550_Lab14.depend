@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1622946530 source:c:\s1093550_lab14\s1093550_lab14\clientdata.cpp
+	<string>
+	"ClientData.h"
+
+1622944574 c:\s1093550_lab14\s1093550_lab14\clientdata.h
+	<string>
+
+1623236984 source:c:\s1093550_lab14\s1093550_lab14\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cstdlib>
+	"ClientData.h"
+
